@@ -1,9 +1,9 @@
 
-Aula 1
+WEBAULA1EX1
 
 echo "# webaula1ex1" >> README.md
 git init
-git add *
+git add .
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/simplecloudservlet/webaula1ex1.git
